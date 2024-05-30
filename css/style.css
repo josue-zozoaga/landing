@@ -1,19 +1,12 @@
 @import url("components/navbar.css");
-
 @import url("components/buttons.css");
-
 @import url("components/hero.css");
-
 @import url("components/section_a.css");
-
 @import url("components/section_b.css");
-
 @import url("components/section_c.css");
-
 @import url("components/section_d.css");
-
 @import url("components/footer.css");
-
+@import url("components/media-queries.css");
 
 body {
 	font-family: 'Roboto', sans-serif;
@@ -81,4 +74,3 @@ section {
     margin: 2rem 0 0;
 	border-top: 1px solid #edf1f2
 }
-
